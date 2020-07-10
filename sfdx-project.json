@@ -5,6 +5,16 @@
             "default": true
         }
     ],
+    "plugins": {
+        "appiriodx": {
+            "packages": [],
+            "permissionSets": [],
+            "sampleData": {
+                "planFiles": [],
+                "sObjectFiles": []
+            }
+        }
+    },
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "48.0"
